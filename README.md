@@ -1,1 +1,0 @@
-# PancreaScan-policy
